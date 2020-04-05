@@ -24,3 +24,4 @@ fundamentals_data = pd.read_csv(fundamentals_file_price)
 fundamentals_data.head()
 #ici on teste pour voir si le tableau fonctionne
 
+le petit oiseau est mort
